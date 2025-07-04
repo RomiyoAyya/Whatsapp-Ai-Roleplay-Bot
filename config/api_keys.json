@@ -1,0 +1,22 @@
+{
+  "openrouter": [
+    "AIzaSyAsns4dp-4iN0oD8W4HRBkkJCACr98yeMg1",
+    "AIzaSyAsns4dp-4iN0oD8W4HRBkkJCACr98yeMg2"
+  ],
+  "gemini": [
+    "AIzaSyAsns4dp-4iN0oD8W4HRBkkJCACr98yeMg"
+  ],
+  "gemini_flash": [
+    "AIzaSyAsns4dp-4iN0oD8W4HRBkkJCACr98yeMg"
+  ],
+  "currentIndex": {
+    "openrouter": 0,
+    "gemini": 0,
+    "gemini_flash": 0
+  },
+  "lastRotation": {
+    "openrouter": 1751632596681,
+    "gemini": 1751632596681,
+    "gemini_flash": 1751632596681
+  }
+}
