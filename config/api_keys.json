@@ -1,0 +1,33 @@
+{
+  "openrouter": [],
+  "gemini": [
+    "AIzaSyAsns4dp-4iN0oD8W4HRBkkJCACr98yeMg",
+    "AIzaSyBs6xGsl5LBVjP0laQmUdLfRZlc2SVLGu0",
+    "AIzaSyABApf1UeY1OlzBaT_nquIE8EDrX4QWxFc",
+    "AIzaSyCzWHgYDSYeD1nDdF5s00j7bV2xPkrhDCQ",
+    "AIzaSyDPJZmwqLz9PLyepZ4NVU-hSj7A9iltDbc",
+    "AIzaSyDTIT8gX3Ii8Le4JWP6ZeP6yVQqNTJnROE",
+    "AIzaSyCaegiiZXKPPEHgKoLsQVXxjh5RGBW8xLI",
+    "AIzaSyDx0NkDcYIaiMcZeAr_mHYLee4TH3V70TA"
+  ],
+  "gemini_flash": [
+    "AIzaSyAsns4dp-4iN0oD8W4HRBkkJCACr98yeMg",
+    "AIzaSyBs6xGsl5LBVjP0laQmUdLfRZlc2SVLGu0",
+    "AIzaSyABApf1UeY1OlzBaT_nquIE8EDrX4QWxFc",
+    "AIzaSyCzWHgYDSYeD1nDdF5s00j7bV2xPkrhDCQ",
+    "AIzaSyDPJZmwqLz9PLyepZ4NVU-hSj7A9iltDbc",
+    "AIzaSyDTIT8gX3Ii8Le4JWP6ZeP6yVQqNTJnROE",
+    "AIzaSyCaegiiZXKPPEHgKoLsQVXxjh5RGBW8xLI",
+    "AIzaSyDx0NkDcYIaiMcZeAr_mHYLee4TH3V70TA"
+  ],
+  "currentIndex": {
+    "openrouter": 0,
+    "gemini": 0,
+    "gemini_flash": 0
+  },
+  "lastRotation": {
+    "openrouter": 1759135716915,
+    "gemini": 1759135716915,
+    "gemini_flash": 1759135716915
+  }
+}
